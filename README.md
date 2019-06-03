@@ -1,6 +1,6 @@
 # Team Charizard NUber Project
 
-The project was written for Professor Jason Diaz's CS 3398 Software Engineering class at Texas State University. The project was done in conjuction with myself, Brent Redmon, Blake Allen, Jacob Gibson, Connor Oldmixon, Sam Coyle, and Cassie Coyle. Together, we created a RESTful API which will serve as the backend for our system.
+The project was written for Professor Jason Diaz's CS 3398 Software Engineering class at Texas State University. The project was done in conjuction with myself, Brent Redmon, Blake Allen, Jacob Gibson, Zachary Golla, Sam Coyle, and Cassie Coyle. Together, we created a RESTful API which will serve as the backend for our system.
 
 <hr>
 
